@@ -1,9 +1,7 @@
 API de Gerenciamento de Tarefas
 ===============================
 
-Este repositório contém um projeto de API simples para gerenciamento de tarefas, desenvolvido utilizando Java Spring. O objetivo deste projeto é praticar e compartilhar como você pode criar todos os métodos CRUD usando Java Spring.
-
-Este projeto foi desenvolvido durante uma transmissão ao vivo no meu canal do YouTube.
+Este repositório contém um projeto de API simples para gerenciamento de tarefas, desenvolvido utilizando Java Spring Boot.
 
 Índice
 ------
@@ -32,6 +30,12 @@ Configuração
 ------------
 
 Modifique o arquivo application.properties para configurar a conexão com o banco de dados e outras propriedades da aplicação.
+
+Uso
+---
+
+1. Iniciar a aplicação com Maven
+2. A API estará acessível em http://localhost:8080
 
 Endpoints da API
 ----------------
