@@ -50,4 +50,4 @@ Banco de Dados
 
 O projeto utiliza o PostgreSQL como banco de dados. As migrações necessárias do banco de dados são gerenciadas pelo Flyway.
 
-Para instalar o PostgreSQL localmente, você pode clicar aqui.
+Para instalar o PostgreSQL localmente, você pode [clicar aqui](https://www.postgresql.org/download/).
