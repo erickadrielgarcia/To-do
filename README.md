@@ -18,7 +18,7 @@ Clone o repositório:
 
 bashCopy code
 
-`$ git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+`$ git clone https://github.com/erickadrielgarcoa/To-do.git`
 
 Instale as dependências com o Maven:
 
